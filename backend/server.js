@@ -75,11 +75,11 @@ app.get('/output-latest', async (req, res) => {
 })
 
 // Serve static files from the output folder at /output/*
-app.use('/output', express.static('D:/PROJECT/output'))
+app.use('/output', express.static('D:/FOOTBALL-ANALYSIS-PROJECT/Football-Analysis-Project/output'))
 
 // Serve the latest processed video from output folder
 app.get('/detected_mongo_input.mp4', (req, res) => {
-  const outputDir = 'D:/PROJECT/output'
+  const outputDir = 'D:/FOOTBALL-ANALYSIS-PROJECT/Football-Analysis-Project/output'
   const files = fs.readdirSync(outputDir)
     .filter(f => f.endsWith('.mp4'))
     .map(f => ({ file: f, time: fs.statSync(path.join(outputDir, f)).mtime }))
@@ -95,7 +95,7 @@ app.get('/detected_mongo_input.mp4', (req, res) => {
 
 // Serve the latest processed image from output folder
 app.get('/detected_mongo_input.jpg', (req, res) => {
-  const outputDir = 'D:/PROJECT/output'
+  const outputDir = 'D:/FOOTBALL-ANALYSIS-PROJECT/Football-Analysis-Project/output'
   const files = fs.readdirSync(outputDir)
     .filter(f => f.endsWith('.jpg') || f.endsWith('.jpeg') || f.endsWith('.png'))
     .map(f => ({ file: f, time: fs.statSync(path.join(outputDir, f)).mtime }))

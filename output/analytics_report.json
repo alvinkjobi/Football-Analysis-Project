@@ -1,0 +1,835 @@
+{
+  "summary": {
+    "total_objects_tracked": 74,
+    "total_frames": 212,
+    "duration_seconds": 8.48
+  },
+  "objects": {
+    "0": {
+      "class_id": 2,
+      "total_distance": 435.3454562015866,
+      "max_speed": 14.560219778561036,
+      "avg_speed": 12.128230104657897,
+      "trajectory_length": 50,
+      "zone_time": {
+        "middle_third": 19,
+        "right_third": 79
+      },
+      "last_seen_frame": 98
+    },
+    "1": {
+      "class_id": 2,
+      "total_distance": 950.625298196857,
+      "max_speed": 13.152946437965905,
+      "avg_speed": 3.7736952843292557,
+      "trajectory_length": 50,
+      "zone_time": {
+        "middle_third": 148,
+        "right_third": 57
+      },
+      "last_seen_frame": 211
+    },
+    "2": {
+      "class_id": 2,
+      "total_distance": 880.3294570625513,
+      "max_speed": 13.038404810405298,
+      "avg_speed": 7.239104711397035,
+      "trajectory_length": 50,
+      "zone_time": {
+        "middle_third": 110,
+        "right_third": 40
+      },
+      "last_seen_frame": 156
+    },
+    "3": {
+      "class_id": 2,
+      "total_distance": 801.5282392401807,
+      "max_speed": 11.180339887498949,
+      "avg_speed": 4.392886190266007,
+      "trajectory_length": 50,
+      "zone_time": {
+        "left_third": 92,
+        "middle_third": 119
+      },
+      "last_seen_frame": 211
+    },
+    "4": {
+      "class_id": 2,
+      "total_distance": 920.8977583250565,
+      "max_speed": 12.806248474865697,
+      "avg_speed": 5.630981916767691,
+      "trajectory_length": 50,
+      "zone_time": {
+        "middle_third": 106,
+        "right_third": 98
+      },
+      "last_seen_frame": 205
+    },
+    "5": {
+      "class_id": 2,
+      "total_distance": 105.95042274665043,
+      "max_speed": 61.84658438426491,
+      "avg_speed": 1.919772400717577,
+      "trajectory_length": 32,
+      "zone_time": {
+        "middle_third": 31
+      },
+      "last_seen_frame": 31
+    },
+    "6": {
+      "class_id": 2,
+      "total_distance": 62.27332013084854,
+      "max_speed": 4.47213595499958,
+      "avg_speed": 0.7676955262170047,
+      "trajectory_length": 50,
+      "zone_time": {
+        "left_third": 60
+      },
+      "last_seen_frame": 64
+    },
+    "7": {
+      "class_id": 2,
+      "total_distance": 296.1268440703743,
+      "max_speed": 14.317821063276353,
+      "avg_speed": 4.526519408689333,
+      "trajectory_length": 47,
+      "zone_time": {
+        "middle_third": 45,
+        "left_third": 1
+      },
+      "last_seen_frame": 50
+    },
+    "8": {
+      "class_id": 2,
+      "total_distance": 619.7781208132249,
+      "max_speed": 38.07886552931954,
+      "avg_speed": 17.03801190213643,
+      "trajectory_length": 50,
+      "zone_time": {
+        "middle_third": 86,
+        "right_third": 6
+      },
+      "last_seen_frame": 101
+    },
+    "9": {
+      "class_id": 2,
+      "total_distance": 3.1622776601683795,
+      "max_speed": 3.1622776601683795,
+      "avg_speed": 3.1622776601683795,
+      "trajectory_length": 2,
+      "zone_time": {
+        "right_third": 1
+      },
+      "last_seen_frame": 1
+    },
+    "10": {
+      "class_id": 2,
+      "total_distance": 660.1270654271923,
+      "max_speed": 19.1049731745428,
+      "avg_speed": 17.384863560846775,
+      "trajectory_length": 50,
+      "zone_time": {
+        "middle_third": 78,
+        "right_third": 27
+      },
+      "last_seen_frame": 105
+    },
+    "11": {
+      "class_id": 2,
+      "total_distance": 488.67374021855727,
+      "max_speed": 106.01886624558857,
+      "avg_speed": 12.164257953929866,
+      "trajectory_length": 50,
+      "zone_time": {
+        "middle_third": 84,
+        "right_third": 7
+      },
+      "last_seen_frame": 101
+    },
+    "12": {
+      "class_id": 2,
+      "total_distance": 137.5526397562236,
+      "max_speed": 7.280109889280518,
+      "avg_speed": 2.586353168444791,
+      "trajectory_length": 50,
+      "zone_time": {
+        "middle_third": 44,
+        "left_third": 19
+      },
+      "last_seen_frame": 63
+    },
+    "13": {
+      "class_id": 2,
+      "total_distance": 1074.7042031455608,
+      "max_speed": 22.80350850198276,
+      "avg_speed": 8.33674137196111,
+      "trajectory_length": 50,
+      "zone_time": {
+        "left_third": 75,
+        "middle_third": 74,
+        "right_third": 49
+      },
+      "last_seen_frame": 211
+    },
+    "14": {
+      "class_id": 2,
+      "total_distance": 18.293192951075923,
+      "max_speed": 4.123105625617661,
+      "avg_speed": 2.24909759918279,
+      "trajectory_length": 8,
+      "zone_time": {
+        "middle_third": 7
+      },
+      "last_seen_frame": 8
+    },
+    "15": {
+      "class_id": 2,
+      "total_distance": 116.073368816954,
+      "max_speed": 7.615773105863909,
+      "avg_speed": 3.69933740649385,
+      "trajectory_length": 50,
+      "zone_time": {
+        "middle_third": 74
+      },
+      "last_seen_frame": 74
+    },
+    "16": {
+      "class_id": 2,
+      "total_distance": 642.3163030701193,
+      "max_speed": 12.509996003196804,
+      "avg_speed": 4.524280061502418,
+      "trajectory_length": 50,
+      "zone_time": {
+        "middle_third": 4,
+        "left_third": 102
+      },
+      "last_seen_frame": 107
+    },
+    "17": {
+      "class_id": 2,
+      "total_distance": 11.414213562373096,
+      "max_speed": 2.0,
+      "avg_speed": 0.2535363842243775,
+      "trajectory_length": 37,
+      "zone_time": {
+        "right_third": 36
+      },
+      "last_seen_frame": 45
+    },
+    "18": {
+      "class_id": 2,
+      "total_distance": 643.6677759075225,
+      "max_speed": 11.40175425099138,
+      "avg_speed": 2.054586370866563,
+      "trajectory_length": 50,
+      "zone_time": {
+        "left_third": 184,
+        "middle_third": 13
+      },
+      "last_seen_frame": 204
+    },
+    "19": {
+      "class_id": 2,
+      "total_distance": 43.64879599007733,
+      "max_speed": 5.0990195135927845,
+      "avg_speed": 0.906449510224598,
+      "trajectory_length": 37,
+      "zone_time": {
+        "middle_third": 36
+      },
+      "last_seen_frame": 36
+    },
+    "20": {
+      "class_id": 2,
+      "total_distance": 875.7413982556888,
+      "max_speed": 103.40696301506973,
+      "avg_speed": 17.604621353523648,
+      "trajectory_length": 50,
+      "zone_time": {
+        "right_third": 30,
+        "middle_third": 52
+      },
+      "last_seen_frame": 105
+    },
+    "21": {
+      "class_id": 2,
+      "total_distance": 478.6575981871781,
+      "max_speed": 110.13627921806692,
+      "avg_speed": 9.7064201401317,
+      "trajectory_length": 50,
+      "zone_time": {
+        "right_third": 7,
+        "middle_third": 73
+      },
+      "last_seen_frame": 87
+    },
+    "22": {
+      "class_id": 2,
+      "total_distance": 249.74527879006672,
+      "max_speed": 112.17842929904127,
+      "avg_speed": 17.02995763843856,
+      "trajectory_length": 22,
+      "zone_time": {
+        "middle_third": 21
+      },
+      "last_seen_frame": 28
+    },
+    "23": {
+      "class_id": 2,
+      "total_distance": 71.447886768761,
+      "max_speed": 3.1622776601683795,
+      "avg_speed": 1.926731171342506,
+      "trajectory_length": 30,
+      "zone_time": {
+        "middle_third": 29
+      },
+      "last_seen_frame": 46
+    },
+    "24": {
+      "class_id": 2,
+      "total_distance": 86.57461370898369,
+      "max_speed": 28.151376520518493,
+      "avg_speed": 8.346176741209314,
+      "trajectory_length": 8,
+      "zone_time": {
+        "middle_third": 7
+      },
+      "last_seen_frame": 15
+    },
+    "25": {
+      "class_id": 3,
+      "total_distance": 827.8630271382065,
+      "max_speed": 66.64833081180653,
+      "avg_speed": 14.161163198513316,
+      "trajectory_length": 50,
+      "zone_time": {
+        "middle_third": 49,
+        "right_third": 33
+      },
+      "last_seen_frame": 113
+    },
+    "26": {
+      "class_id": 2,
+      "total_distance": 81.82261380755654,
+      "max_speed": 12.36931687685298,
+      "avg_speed": 2.9188448786513743,
+      "trajectory_length": 41,
+      "zone_time": {
+        "middle_third": 29,
+        "left_third": 11
+      },
+      "last_seen_frame": 64
+    },
+    "27": {
+      "class_id": 3,
+      "total_distance": 221.02755893534143,
+      "max_speed": 12.0,
+      "avg_speed": 0.5828427124746189,
+      "trajectory_length": 50,
+      "zone_time": {
+        "right_third": 158
+      },
+      "last_seen_frame": 211
+    },
+    "28": {
+      "class_id": 2,
+      "total_distance": 460.9314264751452,
+      "max_speed": 21.2602916254693,
+      "avg_speed": 14.836483452233571,
+      "trajectory_length": 50,
+      "zone_time": {
+        "middle_third": 20,
+        "right_third": 50
+      },
+      "last_seen_frame": 102
+    },
+    "29": {
+      "class_id": 3,
+      "total_distance": 27.609250475377603,
+      "max_speed": 3.0,
+      "avg_speed": 0.3414213562373095,
+      "trajectory_length": 20,
+      "zone_time": {
+        "left_third": 19
+      },
+      "last_seen_frame": 56
+    },
+    "30": {
+      "class_id": 2,
+      "total_distance": 8.242640687119286,
+      "max_speed": 2.0,
+      "avg_speed": 1.076504843704677,
+      "trajectory_length": 8,
+      "zone_time": {
+        "middle_third": 7
+      },
+      "last_seen_frame": 36
+    },
+    "31": {
+      "class_id": 2,
+      "total_distance": 0,
+      "max_speed": 0,
+      "avg_speed": 0,
+      "trajectory_length": 1,
+      "zone_time": {},
+      "last_seen_frame": 37
+    },
+    "32": {
+      "class_id": 2,
+      "total_distance": 10.245165457218395,
+      "max_speed": 5.830951894845301,
+      "avg_speed": 3.4150551524061323,
+      "trajectory_length": 4,
+      "zone_time": {
+        "middle_third": 3
+      },
+      "last_seen_frame": 49
+    },
+    "33": {
+      "class_id": 2,
+      "total_distance": 441.8882534769545,
+      "max_speed": 23.194827009486403,
+      "avg_speed": 15.263094301549339,
+      "trajectory_length": 50,
+      "zone_time": {
+        "middle_third": 22,
+        "right_third": 32
+      },
+      "last_seen_frame": 110
+    },
+    "34": {
+      "class_id": 3,
+      "total_distance": 258.46021661444723,
+      "max_speed": 12.165525060596439,
+      "avg_speed": 9.97056044007906,
+      "trajectory_length": 39,
+      "zone_time": {
+        "middle_third": 34,
+        "right_third": 4
+      },
+      "last_seen_frame": 98
+    },
+    "35": {
+      "class_id": 3,
+      "total_distance": 428.20267717785725,
+      "max_speed": 17.11724276862369,
+      "avg_speed": 15.186252043913939,
+      "trajectory_length": 33,
+      "zone_time": {
+        "middle_third": 15,
+        "right_third": 17
+      },
+      "last_seen_frame": 104
+    },
+    "36": {
+      "class_id": 3,
+      "total_distance": 100.47138802288558,
+      "max_speed": 9.5524865872714,
+      "avg_speed": 6.098080591648406,
+      "trajectory_length": 14,
+      "zone_time": {
+        "middle_third": 12,
+        "right_third": 1
+      },
+      "last_seen_frame": 81
+    },
+    "37": {
+      "class_id": 2,
+      "total_distance": 513.9615670992534,
+      "max_speed": 12.165525060596439,
+      "avg_speed": 3.720468976921339,
+      "trajectory_length": 50,
+      "zone_time": {
+        "left_third": 21,
+        "middle_third": 87
+      },
+      "last_seen_frame": 171
+    },
+    "38": {
+      "class_id": 2,
+      "total_distance": 107.5602618968714,
+      "max_speed": 9.617692030835672,
+      "avg_speed": 7.271468223461478,
+      "trajectory_length": 11,
+      "zone_time": {
+        "middle_third": 10
+      },
+      "last_seen_frame": 77
+    },
+    "39": {
+      "class_id": 2,
+      "total_distance": 807.3494877167054,
+      "max_speed": 89.1403387922662,
+      "avg_speed": 14.170906925967888,
+      "trajectory_length": 50,
+      "zone_time": {
+        "middle_third": 33,
+        "right_third": 31
+      },
+      "last_seen_frame": 130
+    },
+    "40": {
+      "class_id": 2,
+      "total_distance": 7.8481919625832735,
+      "max_speed": 4.242640687119285,
+      "avg_speed": 3.9240959812916367,
+      "trajectory_length": 3,
+      "zone_time": {
+        "middle_third": 2
+      },
+      "last_seen_frame": 65
+    },
+    "41": {
+      "class_id": 2,
+      "total_distance": 857.2625418942202,
+      "max_speed": 20.333333333333332,
+      "avg_speed": 1.7838896747497845,
+      "trajectory_length": 50,
+      "zone_time": {
+        "left_third": 11,
+        "middle_third": 36,
+        "right_third": 79
+      },
+      "last_seen_frame": 211
+    },
+    "42": {
+      "class_id": 3,
+      "total_distance": 76.14727845055252,
+      "max_speed": 9.0,
+      "avg_speed": 6.114600195063832,
+      "trajectory_length": 7,
+      "zone_time": {
+        "right_third": 6
+      },
+      "last_seen_frame": 79
+    },
+    "43": {
+      "class_id": 3,
+      "total_distance": 5.0,
+      "max_speed": 5.0,
+      "avg_speed": 5.0,
+      "trajectory_length": 2,
+      "zone_time": {
+        "right_third": 1
+      },
+      "last_seen_frame": 71
+    },
+    "44": {
+      "class_id": 2,
+      "total_distance": 396.8907201084709,
+      "max_speed": 20.0,
+      "avg_speed": 16.234545119031928,
+      "trajectory_length": 25,
+      "zone_time": {
+        "right_third": 24
+      },
+      "last_seen_frame": 103
+    },
+    "45": {
+      "class_id": 2,
+      "total_distance": 285.9352525036462,
+      "max_speed": 34.66987164671943,
+      "avg_speed": 15.557370078364116,
+      "trajectory_length": 24,
+      "zone_time": {
+        "middle_third": 16,
+        "right_third": 7
+      },
+      "last_seen_frame": 101
+    },
+    "46": {
+      "class_id": 2,
+      "total_distance": 581.8396364343382,
+      "max_speed": 17.266296649832007,
+      "avg_speed": 2.7006539024800373,
+      "trajectory_length": 50,
+      "zone_time": {
+        "middle_third": 51,
+        "right_third": 7
+      },
+      "last_seen_frame": 163
+    },
+    "47": {
+      "class_id": 2,
+      "total_distance": 0,
+      "max_speed": 0,
+      "avg_speed": 0,
+      "trajectory_length": 1,
+      "zone_time": {},
+      "last_seen_frame": 80
+    },
+    "48": {
+      "class_id": 2,
+      "total_distance": 0,
+      "max_speed": 0,
+      "avg_speed": 0,
+      "trajectory_length": 1,
+      "zone_time": {},
+      "last_seen_frame": 87
+    },
+    "49": {
+      "class_id": 2,
+      "total_distance": 452.5395164792522,
+      "max_speed": 29.410882339705484,
+      "avg_speed": 11.136888671484117,
+      "trajectory_length": 31,
+      "zone_time": {
+        "right_third": 30
+      },
+      "last_seen_frame": 125
+    },
+    "50": {
+      "class_id": 2,
+      "total_distance": 0,
+      "max_speed": 0,
+      "avg_speed": 0,
+      "trajectory_length": 1,
+      "zone_time": {},
+      "last_seen_frame": 98
+    },
+    "51": {
+      "class_id": 2,
+      "total_distance": 44.634766887108356,
+      "max_speed": 15.033296378372908,
+      "avg_speed": 12.211588962369452,
+      "trajectory_length": 4,
+      "zone_time": {
+        "right_third": 3
+      },
+      "last_seen_frame": 104
+    },
+    "52": {
+      "class_id": 2,
+      "total_distance": 336.2866851019153,
+      "max_speed": 25.495097567963924,
+      "avg_speed": 11.417478853981716,
+      "trajectory_length": 29,
+      "zone_time": {
+        "right_third": 28
+      },
+      "last_seen_frame": 130
+    },
+    "53": {
+      "class_id": 2,
+      "total_distance": 412.86585161805584,
+      "max_speed": 12.0,
+      "avg_speed": 8.442458122041378,
+      "trajectory_length": 50,
+      "zone_time": {
+        "left_third": 91
+      },
+      "last_seen_frame": 201
+    },
+    "54": {
+      "class_id": 2,
+      "total_distance": 510.77398193868265,
+      "max_speed": 9.219544457292887,
+      "avg_speed": 5.1961392331201735,
+      "trajectory_length": 50,
+      "zone_time": {
+        "left_third": 33,
+        "middle_third": 45
+      },
+      "last_seen_frame": 211
+    },
+    "55": {
+      "class_id": 2,
+      "total_distance": 2.23606797749979,
+      "max_speed": 2.23606797749979,
+      "avg_speed": 2.23606797749979,
+      "trajectory_length": 2,
+      "zone_time": {
+        "middle_third": 1
+      },
+      "last_seen_frame": 122
+    },
+    "56": {
+      "class_id": 2,
+      "total_distance": 20.591260281974,
+      "max_speed": 10.295630140987,
+      "avg_speed": 10.295630140987,
+      "trajectory_length": 2,
+      "zone_time": {
+        "right_third": 1
+      },
+      "last_seen_frame": 126
+    },
+    "57": {
+      "class_id": 2,
+      "total_distance": 0,
+      "max_speed": 0,
+      "avg_speed": 0,
+      "trajectory_length": 1,
+      "zone_time": {},
+      "last_seen_frame": 124
+    },
+    "58": {
+      "class_id": 2,
+      "total_distance": 0,
+      "max_speed": 0,
+      "avg_speed": 0,
+      "trajectory_length": 1,
+      "zone_time": {},
+      "last_seen_frame": 124
+    },
+    "59": {
+      "class_id": 2,
+      "total_distance": 266.540980355346,
+      "max_speed": 49.98888765404656,
+      "avg_speed": 26.673702882187314,
+      "trajectory_length": 5,
+      "zone_time": {
+        "middle_third": 4
+      },
+      "last_seen_frame": 147
+    },
+    "60": {
+      "class_id": 2,
+      "total_distance": 63.55428785717085,
+      "max_speed": 22.135943621178654,
+      "avg_speed": 7.944285982146357,
+      "trajectory_length": 9,
+      "zone_time": {
+        "right_third": 8
+      },
+      "last_seen_frame": 148
+    },
+    "61": {
+      "class_id": 2,
+      "total_distance": 248.55588929283655,
+      "max_speed": 12.0,
+      "avg_speed": 3.8176323733080215,
+      "trajectory_length": 50,
+      "zone_time": {
+        "right_third": 23,
+        "middle_third": 32
+      },
+      "last_seen_frame": 211
+    },
+    "62": {
+      "class_id": 2,
+      "total_distance": 142.33367996656474,
+      "max_speed": 6.4031242374328485,
+      "avg_speed": 3.348953592849418,
+      "trajectory_length": 41,
+      "zone_time": {
+        "middle_third": 40
+      },
+      "last_seen_frame": 211
+    },
+    "63": {
+      "class_id": 2,
+      "total_distance": 576.7339020965316,
+      "max_speed": 69.35416353759881,
+      "avg_speed": 18.501439998792257,
+      "trajectory_length": 19,
+      "zone_time": {
+        "right_third": 4,
+        "middle_third": 14
+      },
+      "last_seen_frame": 211
+    },
+    "64": {
+      "class_id": 2,
+      "total_distance": 32.27965457252418,
+      "max_speed": 8.602325267042627,
+      "avg_speed": 8.069913643131045,
+      "trajectory_length": 5,
+      "zone_time": {
+        "left_third": 4
+      },
+      "last_seen_frame": 185
+    },
+    "65": {
+      "class_id": 2,
+      "total_distance": 0,
+      "max_speed": 0,
+      "avg_speed": 0,
+      "trajectory_length": 1,
+      "zone_time": {},
+      "last_seen_frame": 188
+    },
+    "66": {
+      "class_id": 2,
+      "total_distance": 0,
+      "max_speed": 0,
+      "avg_speed": 0,
+      "trajectory_length": 1,
+      "zone_time": {},
+      "last_seen_frame": 195
+    },
+    "67": {
+      "class_id": 2,
+      "total_distance": 79.01299388895534,
+      "max_speed": 12.54768681647914,
+      "avg_speed": 9.218276466949558,
+      "trajectory_length": 6,
+      "zone_time": {
+        "left_third": 5
+      },
+      "last_seen_frame": 206
+    },
+    "68": {
+      "class_id": 2,
+      "total_distance": 23.747815503670118,
+      "max_speed": 10.198039027185569,
+      "avg_speed": 4.749563100734024,
+      "trajectory_length": 6,
+      "zone_time": {
+        "middle_third": 5
+      },
+      "last_seen_frame": 204
+    },
+    "69": {
+      "class_id": 2,
+      "total_distance": 117.5121323095737,
+      "max_speed": 17.26267650163207,
+      "avg_speed": 10.391066180083824,
+      "trajectory_length": 12,
+      "zone_time": {
+        "middle_third": 11
+      },
+      "last_seen_frame": 211
+    },
+    "70": {
+      "class_id": 2,
+      "total_distance": 0,
+      "max_speed": 0,
+      "avg_speed": 0,
+      "trajectory_length": 1,
+      "zone_time": {},
+      "last_seen_frame": 203
+    },
+    "71": {
+      "class_id": 2,
+      "total_distance": 0,
+      "max_speed": 0,
+      "avg_speed": 0,
+      "trajectory_length": 1,
+      "zone_time": {},
+      "last_seen_frame": 205
+    },
+    "72": {
+      "class_id": 2,
+      "total_distance": 6.324555320336759,
+      "max_speed": 6.324555320336759,
+      "avg_speed": 6.324555320336759,
+      "trajectory_length": 2,
+      "zone_time": {
+        "middle_third": 1
+      },
+      "last_seen_frame": 211
+    },
+    "73": {
+      "class_id": 2,
+      "total_distance": 44.91102314577124,
+      "max_speed": 44.91102314577124,
+      "avg_speed": 44.91102314577124,
+      "trajectory_length": 2,
+      "zone_time": {
+        "middle_third": 1
+      },
+      "last_seen_frame": 211
+    }
+  }
+}

@@ -108,14 +108,34 @@ function App() {
       const byteString = atob(data)
       const byteArray = new Uint8Array(byteString.length)
       for (let i = 0; i < byteString.length; i++) byteArray[i] = byteString.charCodeAt(i)
-      // Always use 'video/mp4' for video blobs for browser compatibility
       const isVideo = mimetype && mimetype.startsWith('video')
       const blob = new Blob([byteArray], { type: isVideo ? 'video/mp4' : mimetype })
       const url = URL.createObjectURL(blob)
       setResultUrl(url)
       setResultMime(isVideo ? 'video/mp4' : mimetype)
     } catch (err) {
-      setError('Failed to fetch or display processed output')
+      // Fallback: try to fetch static file directly
+      try {
+        console.log('Trying to fetch /output/output.mp4')
+        const videoRes = await fetch('http://localhost:5000/output/output.mp4')
+        if (videoRes.ok) {
+          const blob = await videoRes.blob()
+          setResultUrl(URL.createObjectURL(blob))
+          setResultMime('video/mp4')
+          return
+        }
+        console.log('Trying to fetch /output/output.jpg')
+        const imgRes = await fetch('http://localhost:5000/output/output.jpg')
+        if (imgRes.ok) {
+          const blob = await imgRes.blob()
+          setResultUrl(URL.createObjectURL(blob))
+          setResultMime('image/jpeg')
+          return
+        }
+        setError('Failed to fetch or display processed output')
+      } catch {
+        setError('Failed to fetch or display processed output')
+      }
     }
   }
 
