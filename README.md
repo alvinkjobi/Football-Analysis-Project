@@ -9,10 +9,6 @@ Welcome to the **Football Analysis Project** repository! This is a powerful MERN
 - [Features](#features)  
 - [Tech Stack](#tech-stack)  
 - [Installation](#installation)  
-- [Folder Structure](#folder-structure)  
-- [Author](#author)  
-- [License](#license)
-
 ---
 
 ## ✨ Features
